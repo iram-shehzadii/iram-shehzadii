@@ -1,16 +1,28 @@
-## Hi there 👋
+## Hi there, I'm Iram Shehzadi 👋
 
-<!--
-**iram-shehzadii/iram-shehzadii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Electrical Engineering Student | Passionate about Digital Systems & RTL Design | 🐍 Python Enthusiast  
 
-Here are some ideas to get you started:
+Welcome to my GitHub! I'm passionate about solving real-world problems using a combination of **data, code, and circuits**. I'm currently expanding my skills in **Python Programming** and **system design** — and always exploring new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Tech Stack & Tools
+- **Languages**: Python, C, SystemVerilog 
+- **Hardware**: FPGA (Nexys A7)
+- **Tools**: Git, GitHub, VS Code, Vivado   
+
+---
+
+## 🧠 Current Focus
+- Mastering **Machine Learning** with Python    
+- Creating **SystemVerilog RTL designs** for digital systems
+
+---
+
+## 📌 Featured Projects
+- 🔄 **8-bit Restoring Division Algorithm in System Verilog** — Custom RTL design with FSM controller  
+
+---
+
+⭐️ *Always curious. Always learning. Let's build something amazing together!*
+
